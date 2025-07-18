@@ -15,14 +15,14 @@
 
 ## 🚀 Как использовать
 
-1. Скачайте файл [Folder.exe]([))
+1. Скачайте файл [Скачать Folder.exe](https://github.com/wulkan-Git/Folder/releases/latest/download/Folder.exe)
 2. Запустите программу двойным кликом
 3. Папка автоматически создается на рабочем столе!
 4. Повторный запуск создает новую папку с увеличенным номером
 
 ## 📦 Скачать
 
-Последняя версия: [Folder.exe]([[https://github.com/yourusername/one-click-folder/releases/latest](https://example.com/CreateFolder.exe](https://github.com/wulkan-Git/Folder/releases/tag/Folder](https://github.com/wulkan-Git/Folder/releases)))
+Последняя версия:[Скачать Folder.exe](https://github.com/wulkan-Git/Folder/releases/latest)
 
 ## ⚙️ Технические детали
 
